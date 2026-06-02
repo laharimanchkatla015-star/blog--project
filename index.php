@@ -60,6 +60,7 @@
 
 <div class="container">
 <?php
+// HEAD
 $conn = new mysqli("localhost", "root", "Lahari@121", "blog");
 
 if ($conn->connect_error) {
@@ -117,3 +118,4 @@ if (!empty($search)) {
         <?php echo $i; ?>
     </a>
 <?php } ?>
+
