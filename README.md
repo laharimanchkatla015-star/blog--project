@@ -146,9 +146,9 @@ http://localhost/blog-project/
 
 ## 👨‍💻 Author
 
-Intern: Lahari Manchikatla
-Internship: Web Development Internship
-Platform: ApexPlanet / Internship Provider
+* Intern: Lahari Manchikatla
+* Internship: Web Development Internship
+* Platform: ApexPlanet
 
 ---
 
