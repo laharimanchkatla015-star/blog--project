@@ -66,7 +66,7 @@ blog-project/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/blog-project.git
+git clone https://github.com/laharimanchkatla015/blog-project.git
 ```
 
 ### Step 2: Move Project
